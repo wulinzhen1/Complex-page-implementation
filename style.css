@@ -575,6 +575,7 @@ p{
 }
 #top{
     border-bottom: 1px solid gainsboro;
+    border-left: 1px solid gainsboro;
 }
 #day{
     width: 100px;
@@ -663,7 +664,7 @@ p{
 }
 #bottom{
     border-bottom: 1px solid #16cfe2;
-
+    border-left: 1px solid gainsboro;
 }
 #newm{
     color: #16cfe2;
